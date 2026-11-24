@@ -3,8 +3,6 @@
 
 **LendeVerse for Wii** is a homebrew application developed by **Guyis_573**, bringing LendeVerse to the Wii.
 
-The goal is to : make it possible to access LendeVerse directly from a Wii console!
-
 🌐 Part of the LendeVerse ecosystem.
 
 LendeVerse repository :
