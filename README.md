@@ -46,7 +46,7 @@
 
 ## 🚧 Development status
 
-<ins>Released For testing!</ins>
+<ins>Released for testing!</ins>
 
 New features, improvements and fixes are planned!
 
