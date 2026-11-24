@@ -15,7 +15,6 @@ https://github.com/Guyis573/LendeVerse/
 - 🔒 HTTPS communication
 - 💬 LendeVerse server integration
 - 🖥️ Custom graphical interface
-- 🚀 Designed for homebrew environments
 
 *⚠️ Some features are still under development.*
 
