@@ -5,8 +5,7 @@
 
 🌐 Part of the LendeVerse ecosystem.
 
-LendeVerse repository :
-https://github.com/Guyis573/LendeVerse/
+[LendeVerse Repository](https://github.com/Guyis573/LendeVerse/)
 
 ## ✨ Features
 
