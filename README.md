@@ -3,11 +3,11 @@
 
 **LendeVerse for Wii** is a homebrew application developed by **Guyis_573**, bringing LendeVerse communication platform to the Wii.
 
-The goal is : make it possible to access LendeVerse directly from a Wii console!
+The goal is to : make it possible to access LendeVerse directly from a Wii console!
 
 🌐 Part of the LendeVerse ecosystem.
 
-LendeVerse repositery :
+LendeVerse repository :
 https://github.com/Guyis573/LendeVerse/
 
 ## ✨ Features
@@ -43,7 +43,7 @@ https://github.com/Guyis573/LendeVerse/
 
 1. Download the latest release.
 2. Extract the archive.
-3. Copy the `LendeVerse Wii` folder into `SD:/apps/`. (If you dont have a folder, create it.)
+3. Copy the `LendeVerse Wii` folder into `SD:/apps/`. (If you don't have a folder, create it.)
 4. Insert your SD card into your Wii.
 5. Launch the Homebrew Channel.
 6. Select **LendeVerse** and enjoy!
@@ -52,7 +52,7 @@ https://github.com/Guyis573/LendeVerse/
 
 <ins>Released For testing!</ins>
 
-LendeVerse Wii Devlopement Finished!
+LendeVerse Wii Developement Finished!
 But new features, improvements and fixes are planned!
 
 ## 📜 License
