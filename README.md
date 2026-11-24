@@ -1,14 +1,4 @@
 # <img width="52" height="52" alt="LendeVerseLogo" src="https://github.com/user-attachments/assets/386abcd8-da99-4748-8d03-af52734d0a5b" /> LendeVerse for Wii
-<p align="center">
-  <strong>💬 Bring LendeVerse to your Nintendo Wii!</strong>
-</p>
-
-<p align="center">
-  🎮 Wii · 💬 Communication
-</p>
-
----
-
 ## 📖 About the project
 
 **LendeVerse for Wii** is a homebrew application developed by **Guyis_573**, bringing LendeVerse communication platform to the Wii.
@@ -72,10 +62,10 @@ License information coming soon.
 ---
 
 <p align="center">
-  <img width="25" height="25" alt="LendeVerseLogo" src="https://github.com/user-attachments/assets/e592025a-982f-434a-a3dc-fc6ec022237e" />
+  <img width="25" height="25" alt="" src="https://github.com/user-attachments/assets/e592025a-982f-434a-a3dc-fc6ec022237e" />
  <strong>LendeVerse</strong>
   <br>
   <i>Communication on Wii, DS and PC.</i>
   <br><br>
-  🎮 Made for Wii with ❤️ by Guyis_573
+ Made for <img width="30" height="20" alt="wii" src="https://github.com/user-attachments/assets/5c01f0fb-f40e-425c-ac97-83bca6a34886" /> with ❤️ by Guyis_573
 </p>
